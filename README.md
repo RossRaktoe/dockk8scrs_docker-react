@@ -1,4 +1,4 @@
-# This project is created as a result of following a docker/kubernetes course, just for learning how to deploy an application inside a docker container and integrating docker inside an CI/CD tool by push your app in github and tricker the CI/CD tool to do its stuff, so nothing special.
+Note: This project is created as a result of following a docker/kubernetes course, just for learning how to deploy an application inside a docker container and integrating docker inside an CI/CD tool by push your app in github and tricker the CI/CD tool to do its stuff, so nothing special.
 
 # Getting Started with Create React App
 
